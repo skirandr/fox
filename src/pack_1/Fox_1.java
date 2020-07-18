@@ -7,6 +7,8 @@ public class Fox_1 {
 		System.out.println("name 2");
 		
 			System.out.println("name 2");
+		
+		System.out.println("name 4");
 
 	}
 
